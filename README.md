@@ -1,4 +1,4 @@
-# Multiple-Testing-Correction: my lightning talk for data science immersive course program
+# Multiple-Testing-Correction: my lightning talk for data science immersive program
 You got the result of your data but unfortunately, there is no significant difference!  
 you have decided to repeat your experiment till getting significant results  
 sorry, but that is not right!   
